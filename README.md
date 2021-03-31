@@ -1,0 +1,2 @@
+# BudgetBuddy
+MERN stack - frontend
